@@ -2,7 +2,8 @@
 你可以通过运行run.sh跑代码
 数据格式是：
 
-'''
+'''text
+
 datadir:
     audioid_wav_dir:
     
