@@ -15,4 +15,5 @@ datadir:
     
     list_audio_text_pair_file
 ```
-  
+
+然后就可以搞自己的声音克隆啦！ 以及任何想克隆的声音！
