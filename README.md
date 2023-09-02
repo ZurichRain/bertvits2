@@ -2,7 +2,7 @@
 你可以通过运行run.sh跑代码
 数据格式是：
 
-'''text
+```text
 
 datadir:
 
@@ -13,5 +13,5 @@ datadir:
     audio_spec_dir:
     
     list_audio_text_pair_file
-'''
+```
   
