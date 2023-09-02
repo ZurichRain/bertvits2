@@ -5,6 +5,7 @@
 '''text
 
 datadir:
+
     audioid_wav_dir:
     
     text_bert_dir:
