@@ -4,9 +4,9 @@
 
 '''
 datadir:
-    audioid_wav_dir:
-    text_bert_dir:
-    audio_spec_dir:
-    list_audio_text_pair_file
+    audioid_wav_dir:\\
+    text_bert_dir:\\
+    audio_spec_dir:\\
+    list_audio_text_pair_file\\
 '''
   
